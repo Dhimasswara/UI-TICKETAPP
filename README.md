@@ -4,7 +4,7 @@
 </div>
   <h3 align="center">BuroQ App</h3>
   <p align="center">
-    <a href="https://github.com/mhmdiamd/ui-tiket-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dhimasswara/UI-TICKETAPP"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://buroq.vercel.app/">View Demo</a>
     ·
@@ -159,9 +159,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend BuroQ`](https://github.com/mhmdiamd/restapi-tiket-app)
+:rocket: [`Backend BuroQ`](https://github.com/dhimasswara/BE-TICKETAPP)
 
-:rocket: [`Frontend BuroQ`](https://github.com/mhmdiamd/ui-tiket-app)
+:rocket: [`Frontend BuroQ`](https://github.com/dhimasswara/UI-TICKETAPP)
 
 :rocket: [`Demo BuroQ`](https://buroq.vercel.app/)
 
